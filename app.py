@@ -1,3 +1,4 @@
+# This function displays the DevOps greeting
 def hello_world():
     return "Hello, DevOps!"
 
