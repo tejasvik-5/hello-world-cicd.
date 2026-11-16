@@ -2,5 +2,6 @@
 def hello_world():
     return "Hello, DevOps!"
 
-if __name__ == "__main__":
-    print(hello_world())
+# This function generates a personalized welcome message
+def welcome_message(name):
+    return f"Welcome to DevOps, {name}!"
